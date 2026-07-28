@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Rian%20Oliveira&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
 # Olá, eu sou o Rian! 👋
 
 💻 Técnico em Desenvolvimento de Sistemas
