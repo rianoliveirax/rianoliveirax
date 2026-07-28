@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá, eu sou o Rian! 👋
 
-<!--
-**rianoliveirax/rianoliveirax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Técnico em Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+🚀 Desenvolvedor apaixonado por criar aplicações web e aprender novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Formado como Técnico em Desenvolvimento de Sistemas
+- 📚 Sempre estudando e desenvolvendo novos projetos
+- 💡 Interesse em Desenvolvimento Front-end e Full Stack
+- 🎯 Em busca da minha primeira oportunidade na área de tecnologia
+
+---
+
+## 🚀 Tecnologias
+
+### Front-end
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- JSX
+
+### Ferramentas
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante meus estudos e projetos pessoais, buscando aplicar boas práticas de programação e criar soluções úteis.
+
+---
+
+## 📫 Contato
+
+- Email: (riansantos22.2009@gmail.com)
+
+Obrigado pela visita! 😄
