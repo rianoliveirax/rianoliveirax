@@ -47,17 +47,5 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos e projetos pe
 - Email: (riansantos22.2009@gmail.com)
 
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rianoliveirax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianoliveirax&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
 Obrigado pela visita! 😄
 
