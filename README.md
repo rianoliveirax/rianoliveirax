@@ -6,6 +6,12 @@
 
 ---
 
+## 🎓 Formação
+
+**Técnico em Desenvolvimento de Sistemas**  
+[Escola Técnica Estadual Professor Massuyuki Kawano - Tupã]  
+Conclusão: [2026]
+
 ## 👨‍💻 Sobre mim
 
 - 🎓 Formado como Técnico em Desenvolvimento de Sistemas
